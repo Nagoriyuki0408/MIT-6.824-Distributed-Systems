@@ -1,2 +1,4 @@
 ## MIT-6.824-Distributed-Systems Descriptions
+This repository is mainly used to record the papers that need to be read during the learning process of MIT 6.824, as well as the notes I made myself, and my personal implementation methods for the lab projects.
 ### 1. Papers
+These are a series of files stored in PDF format, with filenames covering a variety of technology-related topics such as blockchain (bitcoin, blockstack), distributed systems (raft - extended, zookeeper), big data (mapreduce, spark), storage (gfs), caching (memcache), etc. It is speculated that these may be learning or reference materials in fields such as computer technology, distributed systems, big data, etc.
